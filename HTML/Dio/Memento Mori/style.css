@@ -1,0 +1,48 @@
+body {
+    background: #202124;
+    max-width: 1000px;
+    margin:auto;
+}
+
+#title, .subtitle {
+    color:red
+}
+#title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.links{
+    background-color: none;
+    list-style-type: none;
+    font-family: Verdana;
+    padding-left: 20px;
+}
+
+.posttitle {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+.post{
+    background: darkgray;
+    border: 3px solid darkgray;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 100px;
+}
+
+.text{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_img{
+    margin-bottom: 15px;
+}
